@@ -5,6 +5,7 @@ export default function About() {
         <>
             <div className="container my-4">
                 
+                <p>hello</p>
             </div>
         </>
     )
