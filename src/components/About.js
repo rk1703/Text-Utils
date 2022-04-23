@@ -5,7 +5,7 @@ export default function About() {
         <>
             <div className="container my-4">
                 
-                <p>hello</p>
+                <p>hello it is about page</p>
             </div>
         </>
     )
